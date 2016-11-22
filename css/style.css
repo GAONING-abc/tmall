@@ -151,7 +151,7 @@ a:active
 }
 .brief{
     line-height: 16px;
-    font-size: 8px;
+    font-size: 10px;
     padding: 0 8px;
     color: #F74C15;
 }
@@ -164,7 +164,7 @@ a:active
     padding: 3px 5px;
     background:#F74C15;
     color: #fff;
-    font-size: 8px;
+    font-size: 12px;
     position: absolute;
     right: 5px;
     bottom: 5px;
