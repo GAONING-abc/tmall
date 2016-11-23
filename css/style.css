@@ -71,8 +71,10 @@ a:active
 .header{
     width: 100%;
     line-height: 20px;
-    font-size: 14px;
+    font-size: 16px;
     color: #2fba94;
+    background: #fff;
+    padding: 10px;
 }
 .main{
 text-align: center;
