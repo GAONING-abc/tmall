@@ -68,13 +68,20 @@ a:active
     text-decoration: none;
 }
 /*页面正式样式的开始*/
+.header{
+    width: 100%;
+    line-height: 20px;
+    font-size: 14px;
+    color: #2fba94;
+}
+.main{
+text-align: center;
+}
 .war
 {
     display: flex;
-
     width: 100%;
     height: auto;
-
     flex-wrap: wrap;
     flex-basis: auto;
 }
