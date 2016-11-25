@@ -91,13 +91,19 @@ text-align: center;
 {
     width: calc(50% - 2px);
     height: auto;
-    margin-right: 2px;
+    margin-right: 4px;
+}
+.content:last-child
+{
+    width: calc(50% - 2px);
+    height: auto;
+     margin-right: 0;
 }
 .content_item
 {
     width: 100%;
     height: auto;
-    margin-bottom: 2px;
+    margin-bottom: 4px;
 
     background: red;
     background: #fff;
